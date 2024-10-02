@@ -22,6 +22,6 @@ title="npm" width="40" style="display: inline-block;">&nbsp;
 
 <div id="stat" align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qcyber2233&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kruleeo&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qcyber2233&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qcyber2233&theme=github_dark" alt=""/>
 </div>
