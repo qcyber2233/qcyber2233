@@ -11,12 +11,8 @@ title ="Html" width = "50">&nbsp;
 title ="CSS"  width = "50">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 title ="CSS"  width = "50">&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-title ="NodeJS"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
 title ="Express" style="color: white"  width = "50">&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"
-title ="MongoDB"  width = "50">&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
 title="MySQL" width="40" style="display: inline-block; color: #00758F;">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
