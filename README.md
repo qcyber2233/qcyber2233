@@ -18,7 +18,10 @@ title="MySQL" width="40" style="display: inline-block; color: #00758F;">&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
 title="npm" width="40" style="display: inline-block;">&nbsp;
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kruleeo&theme=github_dark" alt=""/>
+
+
+<div id="stat" align="left">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qcyber2233&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kruleeo&theme=github_dark" alt=""/>
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kruleeo&theme=github_dark" alt=""/>
 </div>
